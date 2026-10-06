@@ -1,0 +1,797 @@
+[
+ {
+  "code": "01",
+  "name": "北海道",
+  "url": "https://www.pref.hokkaido.lg.jp/kn/ksk/kenjohp/sinsa/kensetu_kyoka.html",
+  "tebiki_url": "https://www.pref.hokkaido.lg.jp/fs/1/3/1/4/3/5/4/1/_/%E5%BB%BA%E8%A8%AD%E6%A5%AD%E8%A8%B1%E5%8F%AF%E3%81%AE%E6%89%8B%E5%BC%95(%E8%A1%A8%E7%B4%99~p53)(R8.4.1~).pdf",
+  "madoguchi": "主たる営業所の所在地を管轄する総合振興局（振興局）建設指導課土木係（石狩は指導審査係）",
+  "jcip": true,
+  "fee_payment": "書面: 北海道収入証紙／電子申請: 北海道電子申請システムで電子納付（振興局ごとのリンクから納付申請）",
+  "note": "手引では原則として所管振興局建設指導課へ郵送、またはJCIPで申請とされている。",
+  "sources": [
+   "https://www.pref.hokkaido.lg.jp/kn/ksk/kenjohp/sinsa/kensetu_kyoka.html",
+   "https://www.pref.hokkaido.lg.jp/kn/ksk/kenjohp/sinsa/shinseisyo.html",
+   "https://www.pref.hokkaido.lg.jp/fs/1/3/1/4/3/5/4/1/_/%E5%BB%BA%E8%A8%AD%E6%A5%AD%E8%A8%B1%E5%8F%AF%E3%81%AE%E6%89%8B%E5%BC%95(%E8%A1%A8%E7%B4%99~p53)(R8.4.1~).pdf",
+   "https://www.pref.hokkaido.lg.jp/kn/ksk/133253.html",
+   "https://www.pref.hokkaido.lg.jp/kn/ksk/kenjohp/sinsa/kensetsugyouG.html"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "02",
+  "name": "青森県",
+  "url": "https://pub.pref.aomori.lg.jp/kouji/permission.html",
+  "tebiki_url": null,
+  "madoguchi": "主たる営業所の地区を所管する県土整備事務所 建設管理課",
+  "jcip": true,
+  "fee_payment": "青森県収入証紙",
+  "note": "書面申請は郵便による提出も可能。",
+  "sources": [
+   "https://pub.pref.aomori.lg.jp/kouji/permission.html",
+   "https://pub.pref.aomori.lg.jp/kouji/permission_download.html",
+   "https://pub.pref.aomori.lg.jp/kouji/images/permission/files/top/kyoka-gaiyo.pdf",
+   "https://pub.pref.aomori.lg.jp/kouji/examination_jcip.html"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "03",
+  "name": "岩手県",
+  "url": "https://www.pref.iwate.jp/kendozukuri/kensetsu/1095856/1010860.html",
+  "tebiki_url": "https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/010/860/kyokanotebiki0808-1.pdf",
+  "madoguchi": "主たる営業所の所在地を所管する広域振興局土木部・土木センター（持参）",
+  "jcip": true,
+  "fee_payment": "岩手県収入証紙",
+  "note": "書面申請は持参提出。事前に電話で来庁日時を連絡するよう求めている。",
+  "sources": [
+   "https://www.pref.iwate.jp/kendozukuri/kensetsu/1095856/1010860.html",
+   "https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/010/860/kyokanotebiki0808-1.pdf",
+   "https://www.pref.iwate.jp/kendozukuri/kensetsu/1095856/1061347.html"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "04",
+  "name": "宮城県",
+  "url": "https://www.pref.miyagi.jp/soshiki/jigyokanri/newkensetsugyoukyoka2602.html",
+  "tebiki_url": "https://www.pref.miyagi.jp/documents/11957/202605banfull.pdf",
+  "madoguchi": "主たる営業所の所在地を所管する土木事務所（窓口提出）",
+  "jcip": true,
+  "fee_payment": "書面: 合同庁舎等のセルフレジ／窓口キャッシュレス決済（仙台土木事務所のみ）／電子申請: JCIPからインターネットバンキング納付",
+  "note": "宮城県収入証紙の使用期限は令和8年3月31日。知事許可申請は予約制（窓口予約フォーム）で、許可申請書は窓口のみ受付。",
+  "sources": [
+   "https://www.pref.miyagi.jp/soshiki/jigyokanri/",
+   "https://www.pref.miyagi.jp/soshiki/jigyokanri/newkensetsugyoukyoka2602.html",
+   "https://www.pref.miyagi.jp/documents/11957/202605dai2hen.pdf",
+   "https://www.pref.miyagi.jp/documents/11957/202603kyoka_denshi.pdf"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "05",
+  "name": "秋田県",
+  "url": "https://www.pref.akita.lg.jp/pages/archive/1416",
+  "tebiki_url": "https://www.pref.akita.lg.jp/uploads/public/archive_0000001416_00/202602/R802%E5%BB%BA%E8%A8%AD%E6%A5%AD%E8%A8%B1%E5%8F%AF%E3%81%AE%E6%89%8B%E5%BC%95%E3%81%8D.pdf",
+  "madoguchi": "主たる営業所の所在地を管轄する地域振興局 総務企画部総務経理課",
+  "jcip": true,
+  "fee_payment": "書面: 秋田県収入証紙または窓口キャッシュレス決済／電子申請: Pay-easy（インターネットバンキング）",
+  "note": "窓口が混雑する場合があるため、事前に電話で確認・予約の上で来庁するよう案内している。",
+  "sources": [
+   "https://www.pref.akita.lg.jp/pages/archive/1416",
+   "https://www.pref.akita.lg.jp/uploads/public/archive_0000001416_00/202602/R802%E5%BB%BA%E8%A8%AD%E6%A5%AD%E8%A8%B1%E5%8F%AF%E3%81%AE%E6%89%8B%E5%BC%95%E3%81%8D.pdf",
+   "https://www.pref.akita.lg.jp/pages/archive/69467"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "06",
+  "name": "山形県",
+  "url": "https://www.pref.yamagata.jp/180030/kensei/nyuusatsujouhou/nyuusatsujouhou/2nd_chotatsu/nyuusatsujouhou/kn/kg.html",
+  "tebiki_url": "https://www.pref.yamagata.jp/documents/3902/kyokatebiki.pdf",
+  "madoguchi": "管内の各総合支庁 建設総務課 行政係（郵送または提出）",
+  "jcip": true,
+  "fee_payment": "県証紙 または やまがたe申請での電子納付（クレジットカード・コード決済）。電子申請でも県証紙納付可",
+  "note": "電子納付は令和8年3月1日開始。書面申請は書留・簡易書留での郵送も可。",
+  "sources": [
+   "https://www.pref.yamagata.jp/180030/kensei/nyuusatsujouhou/nyuusatsujouhou/2nd_chotatsu/nyuusatsujouhou/kn/kg.html",
+   "https://www.pref.yamagata.jp/documents/3902/kyokatebiki.pdf",
+   "https://www.pref.yamagata.jp/180030/kensei/nyuusatsujouhou/nyuusatsujouhou/2nd_chotatsu/nyuusatsujouhou/kn/denshinoufu.html"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "07",
+  "name": "福島県",
+  "url": "https://www.pref.fukushima.lg.jp/sec/41025c/kensetsu-kyokayoushikidownload1.html",
+  "tebiki_url": "https://www.pref.fukushima.lg.jp/uploaded/attachment/744757.pdf",
+  "madoguchi": "主たる営業所の所在地を管轄する建設事務所",
+  "jcip": true,
+  "fee_payment": "書面: 福島県収入証紙／電子申請: Pay-easy（インターネットバンキング、収入証紙不可）",
+  "note": "書面申請は郵送による事前審査の後、副本等とともに収入証紙を貼って郵送する方式。",
+  "sources": [
+   "https://www.pref.fukushima.lg.jp/sec/41025c/",
+   "https://www.pref.fukushima.lg.jp/sec/41025c/kensetsu-kyokayoushikidownload1.html",
+   "https://www.pref.fukushima.lg.jp/uploaded/attachment/744757.pdf",
+   "https://www.pref.fukushima.lg.jp/sec/41025c/denshishinsei.html"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "08",
+  "name": "茨城県",
+  "url": "https://www.pref.ibaraki.jp/doboku/urado/01somu.html",
+  "tebiki_url": null,
+  "madoguchi": "本店（主たる営業所）の市町村を管轄する土木事務所（水戸・常陸大宮・潮来・土浦・筑西）",
+  "jcip": true,
+  "fee_payment": "書面: 茨城県収入証紙 または いばらき電子申請・届出サービスで電子納付（Pay-easy・クレジットカード等）",
+  "note": "更新申請は郵送提出可（新規・業種追加は不可）。手引・様式は県公式ページが「土木部監理課建設業担当ホームページ」と案内する kennsetugyou-ibaraki.jp に掲載。",
+  "sources": [
+   "https://www.pref.ibaraki.jp/doboku/urado/01somu.html",
+   "https://www.pref.ibaraki.jp/doboku/chikudo/shinsei/kensetugyo2.html",
+   "https://kennsetugyou-ibaraki.jp/kakusyutetuduki-densinoufu/"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "09",
+  "name": "栃木県",
+  "url": "https://www.pref.tochigi.lg.jp/h01/work/kensetsugyou/kyoka/1281922464534.html",
+  "tebiki_url": null,
+  "madoguchi": "主たる営業所の所在地を管轄する土木事務所 総務課（郵送または持参）",
+  "jcip": true,
+  "fee_payment": "県庁生協売店・各土木事務所のPOS端末／栃木県電子申請システムによる電子納付（郵送申請は電子納付）／収入証紙は令和8年度末まで使用可",
+  "note": "収入証紙の売りさばきは令和8年3月31日で終了（使用は令和9年3月31日まで）。監理課は申請先ではない。",
+  "sources": [
+   "https://www.pref.tochigi.lg.jp/h01/work/kensetsugyou/kyoka/1281922464534.html",
+   "https://www.pref.tochigi.lg.jp/h01/20260401denshisyuno.html",
+   "https://www.pref.tochigi.lg.jp/h01/work/kensetsugyou/kyoka/kensetsugyoutebikiyoushiki.html",
+   "https://www.pref.tochigi.lg.jp/h01/kensetsugyousyaetsuran.html",
+   "https://prod.jcip.mlit.go.jp/TO/TO00007",
+   "https://prod.jcip.mlit.go.jp/TO/TO00001"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "10",
+  "name": "群馬県",
+  "url": "https://www.pref.gunma.jp/page/11905.html",
+  "tebiki_url": "https://www.pref.gunma.jp/uploaded/attachment/650400.pdf",
+  "madoguchi": "県土整備部 建設企画課 建設業対策室（郵送または来庁）",
+  "jcip": true,
+  "fee_payment": "書面: 群馬県収入証紙（払込書は要事前相談）／電子申請: Pay-easy（インターネットバンキング）または県証紙",
+  "note": "来庁受付は月・水・木の10:00〜11:30、13:00〜15:00。郵送は書留。",
+  "sources": [
+   "https://www.pref.gunma.jp/page/11905.html",
+   "https://www.pref.gunma.jp/uploaded/attachment/650400.pdf",
+   "https://www.pref.gunma.jp/page/169151.html",
+   "https://www.pref.gunma.jp/page/11949.html",
+   "https://www.pref.gunma.jp/page/10912.html"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "11",
+  "name": "埼玉県",
+  "url": "https://www.pref.saitama.lg.jp/a1002/youshiki2704.html",
+  "tebiki_url": "https://www.pref.saitama.lg.jp/documents/44992/r8_tebiki_ikkatu.pdf",
+  "madoguchi": "県庁第2庁舎3階 県土整備部 建設管理課分室",
+  "jcip": true,
+  "fee_payment": "書面: 窓口キャッシュレス決済（クレジット・電子マネー等、原則現金不可）／電子申請: Pay-easy（ネットバンキング）のみ",
+  "note": "埼玉県収入証紙は令和6年3月末で利用終了。窓口受付は午前9〜11時・午後1〜4時15分。",
+  "sources": [
+   "https://www.pref.saitama.lg.jp/a1002/kensetugyo/index.html",
+   "https://www.pref.saitama.lg.jp/a1002/youshiki2704.html",
+   "https://www.pref.saitama.lg.jp/a1002/kensetugyo/cashless.html",
+   "https://www.pref.saitama.lg.jp/a1002/uketukemadoguti.html",
+   "https://www.pref.saitama.lg.jp/a1002/kensetugyo/denshi.html",
+   "https://www.pref.saitama.lg.jp/a1002/kensetugyo/kensetugyoudenshi.html"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "12",
+  "name": "千葉県",
+  "url": "https://www.pref.chiba.lg.jp/kenfudou/tetsuzuki/kensetsu.html",
+  "tebiki_url": "https://www.pref.chiba.lg.jp/kenfudou/tetsuzuki/documents/1ikkatu.pdf",
+  "madoguchi": "主たる営業所の所在地を管轄する土木事務所（出張所）",
+  "jcip": true,
+  "fee_payment": "書面: 千葉県収入証紙（電子申請時の納め方は県資料に具体的記載なし）",
+  "note": "郵送提出も可。千葉県収入証紙は令和8年12月末で販売終了・令和9年12月末で利用終了予定。",
+  "sources": [
+   "https://www.pref.chiba.lg.jp/kenfudou/jigyousha/kensetsu/kyoka.html",
+   "https://www.pref.chiba.lg.jp/kenfudou/tetsuzuki/kensetsu.html",
+   "https://www.pref.chiba.lg.jp/kenfudou/tetsuzuki/documents/03kensetu.pdf",
+   "https://www.pref.chiba.lg.jp/suitou/noufu/kyashuresudounyu2.html"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "13",
+  "name": "東京都",
+  "url": "https://www.toshiseibi.metro.tokyo.lg.jp/kenchiku_kaihatsu/kenchiku_shidou/gyosya_shido/kensetsu/kensetsu_kyoka_tebiki3",
+  "tebiki_url": "https://www.toshiseibi.metro.tokyo.lg.jp/documents/d/toshiseibi/2026-09-04-143143-026",
+  "madoguchi": "都市整備局 市街地建築部 建設業課（都庁第二本庁舎3階南側）",
+  "jcip": true,
+  "fee_payment": "書面: 窓口で現金またはキャッシュレス（郵送申請は現金書留で送金）／電子申請: Pay-easyのみ",
+  "note": "手数料が必要な申請は午後4時までに発券機で番号札を取る必要がある。郵送申請も受付。",
+  "sources": [
+   "https://www.toshiseibi.metro.tokyo.lg.jp/kenchiku_kaihatsu/kenchiku_shidou/gyosya_shido/kensetsu",
+   "https://www.toshiseibi.metro.tokyo.lg.jp/kenchiku_kaihatsu/kenchiku_shidou/gyosya_shido/kensetsu/kensetsu_kyoka_tebiki3",
+   "https://www.toshiseibi.metro.tokyo.lg.jp/kenchiku_kaihatsu/kenchiku_shidou/gyosya_shido/kensetsu/denshi_kyoka_oshirase",
+   "https://www.toshiseibi.metro.tokyo.lg.jp/documents/d/toshiseibi/pdf_kenchiku_kensetsu_pdf_kensetsu070106"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "14",
+  "name": "神奈川県",
+  "url": "https://www.pref.kanagawa.jp/docs/u2h/cnt/f531856/p18113.html",
+  "tebiki_url": "https://www.pref.kanagawa.jp/documents/22065/3_ch2_sect1_shinseinagare.pdf",
+  "madoguchi": "県土整備局 事業管理部 建設業課 建設業審査グループ（神奈川県住宅供給公社ビル5階）",
+  "jcip": true,
+  "fee_payment": "書面: 窓口キャッシュレス決済（現金不可・困難な場合は納付書）／電子申請: Pay-easy（ネットバンキング）",
+  "note": "令和7年10月1日から郵送による許可申請の受付を廃止（窓口来庁または電子申請のみ）。県収入証紙は令和7年9月末で販売終了。",
+  "sources": [
+   "https://www.pref.kanagawa.jp/docs/u2h/cnt/f531856/p870076.html",
+   "https://www.pref.kanagawa.jp/docs/u2h/cnt/f531856/p18113.html",
+   "https://www.pref.kanagawa.jp/documents/22065/3_ch2_sect1_shinseinagare.pdf",
+   "https://www.pref.kanagawa.jp/docs/u2h/shinsa/cashlesskessai.html",
+   "https://www.pref.kanagawa.jp/docs/u2h/shinsa/yuusouhaishi.html",
+   "https://www.pref.kanagawa.jp/docs/u2h/cnt/f531856/densi.html"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "15",
+  "name": "新潟県",
+  "url": "https://www.pref.niigata.lg.jp/sec/dobokukanri/1208278873103.html",
+  "tebiki_url": "https://www.pref.niigata.lg.jp/uploaded/attachment/495629.pdf",
+  "madoguchi": "土木部 監理課 建設業室 審査係（県庁7階・出先機関では受付しない）",
+  "jcip": true,
+  "fee_payment": "書面: 新潟県電子申請システムによる電子納付（推奨）／窓口キャッシュレス端末（持参時のみ）／記入式納付書／電子申請(JCIP): 電子納付のみ",
+  "note": "新潟県収入証紙は令和7年3月末で廃止。窓口での現金納付は不可。書面申請は郵送または持参。",
+  "sources": [
+   "https://www.pref.niigata.lg.jp/sec/dobokukanri/1208278873103.html"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "16",
+  "name": "富山県",
+  "url": "https://www.pref.toyama.jp/1510/sangyou/shoukoukensetsu/kensetsugyou/kj00001813/kj00001813-001-01.html",
+  "tebiki_url": "https://www.pref.toyama.jp/documents/5847/kaisetsu.pdf",
+  "madoguchi": "管轄の土木センター 企画管理課 業務班（紙申請は持参）",
+  "jcip": true,
+  "fee_payment": "書面: 県の手数料収納窓口で納付（現金・クレジット・コード決済・電子マネー）しレシートを貼付／電子申請: Pay-easy（ネットバンキング）のみ",
+  "note": "郵送による申請書類の受付は行っていない。富山県収入証紙は令和7年9月末で販売終了、令和8年4月から利用不可。",
+  "sources": [
+   "https://www.pref.toyama.jp/1510/sangyou/shoukoukensetsu/kensetsugyou/kj00001813/index.html",
+   "https://www.pref.toyama.jp/1510/sangyou/shoukoukensetsu/kensetsugyou/kj00001813/kj00001813-001-01.html",
+   "https://www.pref.toyama.jp/1510/sangyou/shoukoukensetsu/kensetsugyou/kj00001116.html",
+   "https://www.pref.toyama.jp/documents/5847/kaisetsu.pdf"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "17",
+  "name": "石川県",
+  "url": "https://www.pref.ishikawa.lg.jp/kanri/kyokashinsei/shinsei.html",
+  "tebiki_url": "https://www.pref.ishikawa.lg.jp/kanri/kyokashinsei/documents/shiori8-4.pdf",
+  "madoguchi": "主たる営業所を管轄する土木総合事務所（庶務課事業係）",
+  "jcip": true,
+  "fee_payment": "石川県証紙",
+  "note": "郵送提出可（証紙を含む場合は書留またはレターパック赤）。県到達日が受付日で、有効期限後の到達は失効。",
+  "sources": [
+   "https://www.pref.ishikawa.lg.jp/kanri/kyokashinsei/shinsei.html",
+   "https://www.pref.ishikawa.lg.jp/kanri/kyokashinsei/documents/shiori8-4.pdf"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "18",
+  "name": "福井県",
+  "url": "https://www.pref.fukui.lg.jp/doc/kanri/kyoka.html",
+  "tebiki_url": "https://www.pref.fukui.lg.jp/doc/kanri/kyoka_d/fil/028.pdf",
+  "madoguchi": "主たる営業所の所在地を管轄する県土木事務所（総務課）",
+  "jcip": true,
+  "fee_payment": "書面: キャッシュレス決済端末／コンビニ・クレジットカード（手数料納付システム）／電子申請: JCIPの案内に従い納付",
+  "note": "令和5年1月からJCIPによる電子申請を受付。",
+  "sources": [
+   "https://www.pref.fukui.lg.jp/doc/kanri/kyoka.html",
+   "https://www.pref.fukui.lg.jp/doc/kanri/kyoka_d/fil/028.pdf"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "19",
+  "name": "山梨県",
+  "url": "https://www.pref.yamanashi.jp/kentai/shinsei_yoshiki.html",
+  "tebiki_url": "https://www.pref.yamanashi.jp/documents/2819/r8kyokatebiki1.pdf",
+  "madoguchi": "県土整備部 県土整備総務課 建設業対策室（県庁北別館3階）",
+  "jcip": true,
+  "fee_payment": "書面: 納付連絡票を使い県のPOSレジ窓口でキャッシュレス等で納付し納付済証を添付／電子申請: JCIPの指示に従い納付",
+  "note": "山梨県収入証紙は令和8年3月31日で完全廃止。受付は月～水曜の午前9～11時・午後1～4時。手引はPDF7分割（tebiki_urlは第1・2章）。",
+  "sources": [
+   "https://www.pref.yamanashi.jp/kentai/shinsei_yoshiki.html",
+   "https://www.pref.yamanashi.jp/kentai/tesuuryounouhuyourennrakuhyou2.html",
+   "https://www.pref.yamanashi.jp/documents/2819/r8kyokatebiki1.pdf"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "20",
+  "name": "長野県",
+  "url": "https://www.pref.nagano.lg.jp/kensetsu/infra/kensetsu/kyoka/kyoka/shinse.html",
+  "tebiki_url": "https://www.pref.nagano.lg.jp/kensetsu/infra/kensetsu/kyoka/kyoka/documents/tebiki_1.pdf",
+  "madoguchi": "長野県庁 建設政策課 建設業担当（郵送で提出）",
+  "jcip": true,
+  "fee_payment": "書面: 長野県収入証紙／ながの電子申請サービスで電子納付（クレジット・PayPay・Pay-easy、令和8年4月から）／電子申請(JCIP): Pay-easyまたは長野県収入証紙",
+  "note": "申請書類は書留（レターパック可）で郵送。JCIP申請の手数料はながの電子申請サービスでは納付できない。",
+  "sources": [
+   "https://www.pref.nagano.lg.jp/kensetsu/infra/kensetsu/kyoka/kyoka/index.html",
+   "https://www.pref.nagano.lg.jp/kensetsu/infra/kensetsu/kyoka/kyoka/shinse.html",
+   "https://www.pref.nagano.lg.jp/kensetsu/infra/kensetsu/kyoka/jcip.html",
+   "https://www.pref.nagano.lg.jp/kensetsu/infra/kensetsu/kyoka/dennsshinoufu.html"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "21",
+  "name": "岐阜県",
+  "url": "https://www.pref.gifu.lg.jp/page/17401.html",
+  "tebiki_url": "https://www.pref.gifu.lg.jp/uploaded/attachment/491538.pdf",
+  "madoguchi": "主たる営業所の所在地を管轄する土木事務所の総務課",
+  "jcip": true,
+  "fee_payment": "書面: 窓口でキャッシュレス決済または現金／電子申請: ネットバンキング口座から納付",
+  "note": "収入証紙は令和7年12月で販売終了（購入済分は令和8年9月末まで使用可）。手数料のかかる許可申請は郵送不可で、窓口が困難なら電子申請。",
+  "sources": [
+   "https://www.pref.gifu.lg.jp/page/565.html",
+   "https://www.pref.gifu.lg.jp/page/648.html",
+   "https://www.pref.gifu.lg.jp/page/17401.html",
+   "https://www.pref.gifu.lg.jp/page/263289.html",
+   "https://www.pref.gifu.lg.jp/uploaded/attachment/491538.pdf"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "22",
+  "name": "静岡県",
+  "url": "https://www.pref.shizuoka.jp/1066349/1066357/1067879/1071964.html",
+  "tebiki_url": "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/071/964/kyokatebiki12.pdf",
+  "madoguchi": "管轄の土木事務所（総務課建設業班）",
+  "jcip": true,
+  "fee_payment": "書面: 静岡県収入証紙／電子申請: 電子納付または静岡県収入証紙（郵送）",
+  "note": "書面申請は郵送不可。更新時は前回許可申請書と変更届の副本を持参。",
+  "sources": [
+   "https://www.pref.shizuoka.jp/machizukuri/kokyokoji/kensetsu/1003484/1028867.html",
+   "https://www.pref.shizuoka.jp/1066349/1066357/1067879/1071964.html",
+   "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/071/964/2kyokatetuduki.pdf",
+   "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/071/964/denshi0914.pdf"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "23",
+  "name": "愛知県",
+  "url": "https://www.pref.aichi.jp/site/gyoute/3600.html",
+  "tebiki_url": "https://www.pref.aichi.jp/site/kensetsugyo-fudosangyo/dl-page-kyoka.html",
+  "madoguchi": "名古屋市内は都市総務課 建設業・不動産業室、名古屋市外は主たる営業所を管轄する建設事務所",
+  "jcip": true,
+  "fee_payment": "書面: 愛知県収入証紙または窓口キャッシュレス決済（令和7年1月20日から）／電子申請(JCIP): Pay-easy（インターネットバンキング）または愛知県収入証紙",
+  "note": "窓口では、申請書を仮受付して内容を確認したあと、改めて来庁して手数料を納める。窓口のキャッシュレス決済は令和7年1月20日から。",
+  "sources": [
+   "https://www.pref.aichi.jp/site/gyoute/3600.html",
+   "https://www.pref.aichi.jp/site/gyoute/0440323.html",
+   "https://www.pref.aichi.jp/uploaded/attachment/544773.pdf",
+   "https://www.pref.aichi.jp/soshiki/toshi-somu/0435952.html",
+   "https://www.pref.aichi.jp/uploaded/attachment/544773.pdf",
+   "https://www.pref.aichi.jp/site/gyoute/3600.html"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "24",
+  "name": "三重県",
+  "url": "https://www.pref.mie.lg.jp/KENGYO/HP/000121164.htm",
+  "tebiki_url": "https://www.pref.mie.lg.jp/common/content/001128470.pdf",
+  "madoguchi": "主たる営業所の所在地を管轄する建設事務所の総務課",
+  "jcip": true,
+  "fee_payment": "書面: 三重県収入証紙／電子申請: Pay-easy（インターネットバンキングのみ）",
+  "note": "窓口持参が原則で、希望すれば郵送も可（発送前に窓口へ連絡、レターパック赤等）。",
+  "sources": [
+   "https://www.pref.mie.lg.jp/KENGYO/HP/000121164.htm",
+   "https://www.pref.mie.lg.jp/KENGYO/HP/86821030391_00004.htm",
+   "https://www.pref.mie.lg.jp/common/content/001128470.pdf"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "25",
+  "name": "滋賀県",
+  "url": "https://www.pref.shiga.lg.jp/ha00/7271.html",
+  "tebiki_url": "https://www.pref.shiga.lg.jp/documents/7272/5576683.pdf",
+  "madoguchi": "県庁 県土整備部監理課建設業係（県庁新館5階）",
+  "jcip": true,
+  "fee_payment": "窓口: キャッシュレス決済・現金（県庁内券売機）・コンビニ決済／郵送: しがネット受付サービス（クレジットカード・Pay-easy）・コンビニ決済／電子申請: JCIP内からしがネット受付サービス（クレジットカード・Pay-easy）",
+  "note": "滋賀県収入証紙は令和8年3月末で廃止。更新は予約不要で、更新・業種追加は郵送（追跡可能な方法）でも提出可。受付は月・水・金。",
+  "sources": [
+   "https://www.pref.shiga.lg.jp/ha00/7266.html",
+   "https://www.pref.shiga.lg.jp/ha00/7271.html",
+   "https://www.pref.shiga.lg.jp/ha00/7291.html",
+   "https://www.pref.shiga.lg.jp/ha00/7272.html",
+   "https://www.pref.shiga.lg.jp/documents/7266/5608740_1.pdf"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "26",
+  "name": "京都府",
+  "url": "https://www.pref.kyoto.jp/kensetugyo/kensetugyoukyoka/sinseisyorui.html",
+  "tebiki_url": "https://www.pref.kyoto.jp/kensetugyo/kensetugyoukyoka/documents/tebiki0712_1.pdf",
+  "madoguchi": "主たる営業所の所在地を所管する京都府土木事務所",
+  "jcip": true,
+  "fee_payment": "書面: 窓口納付（本庁・広域振興局等の支払窓口で納付し納付済証を貼付）またはWeb事前登録コンビニ納付（現金）／電子申請: JCIP上で納付指示後に納付方法を選択",
+  "note": "京都府収入証紙は令和5年3月末で利用終了。現在は原則郵送で受付。更新は有効期間満了の3か月前から受付。",
+  "sources": [
+   "https://www.pref.kyoto.jp/kensetugyo/kensetugyoukyoka/sinseisyorui.html",
+   "https://www.pref.kyoto.jp/kensetugyo/kensetugyoukyoka/documents/tebiki0712_1.pdf",
+   "https://www.pref.kyoto.jp/kensetugyo/kensetugyousintyaku/news/kyokakeishin0330.html",
+   "https://www.pref.kyoto.jp/kensetugyo/kensetugyousintyaku/news/kyokakeishinjcip0330.html",
+   "https://www.pref.kyoto.jp/kensetugyo/kensetugyousintyaku/news/documents/kyokakeishinndennshikasyousai.pdf"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "27",
+  "name": "大阪府",
+  "url": "https://www.pref.osaka.lg.jp/o130200/kenshin/kenkyoka/kensetugyoukyokatebi.html",
+  "tebiki_url": "https://www.pref.osaka.lg.jp/documents/8330/kyoka_tebik_r0803.pdf",
+  "madoguchi": "建築振興課 申請会場（咲洲庁舎1階）",
+  "jcip": true,
+  "fee_payment": "書面: 大阪府手数料（POS）納付用連絡票で府の手数料納付窓口（咲洲庁舎1階フェスパ内など。現金・一部キャッシュレス）／電子申請: Pay-easy、またはPOS納付後に連絡票を郵送",
+  "note": "JCIPによる電子申請は令和7年6月2日開始。有効期間満了の30日前を過ぎた更新申請は電子申請では受け付けない。大阪府証紙は平成30年10月に廃止。申請は窓口のみ（郵送は届出のみ）。",
+  "sources": [
+   "https://www.pref.osaka.lg.jp/o130200/kenshin/kenkyoka/kensetugyoukyokatebi.html",
+   "https://www.pref.osaka.lg.jp/documents/8330/kyoka_tebik_r0803.pdf",
+   "https://www.pref.osaka.lg.jp/o130200/kenshin/ken_info/denshishinsei.html",
+   "https://www.pref.osaka.lg.jp/o130200/kenshin/tesuryonounyu-henkou/index.html",
+   "https://www.pref.osaka.lg.jp/o130200/kenshin/r21207madouketsuke/index.html"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "28",
+  "name": "兵庫県",
+  "url": "https://web.pref.hyogo.lg.jp/ks02/wd37_000000002.html",
+  "tebiki_url": "https://web.pref.hyogo.lg.jp/ks02/documents/kyokatebiki2026.pdf",
+  "madoguchi": "主たる営業所の所在地を所管する土木事務所（県庁では申請不可）",
+  "jcip": true,
+  "fee_payment": "書面: 兵庫県収入証紙／電子申請: 兵庫県電子納付システム",
+  "note": "書面申請は窓口持参のみで郵送不可。電子納付は電子申請の場合に限る。JCIPは令和6年4月22日開始。",
+  "sources": [
+   "https://web.pref.hyogo.lg.jp/ks02/wd37_000000002.html",
+   "https://web.pref.hyogo.lg.jp/ks02/documents/kyokatebiki2026.pdf",
+   "https://web.pref.hyogo.lg.jp/ks03/kyoka-densinouh.html"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "29",
+  "name": "奈良県",
+  "url": "https://www.pref.nara.lg.jp/n133/12029.html",
+  "tebiki_url": "https://www.pref.nara.lg.jp/documents/8627/20260724100840.pdf",
+  "madoguchi": "管轄の土木事務所",
+  "jcip": true,
+  "fee_payment": "書面: 奈良県収入証紙／電子申請: JCIPからインターネットバンキングで納付、または証紙を貼付欄に貼って建設産業課へ郵送",
+  "note": "旧ドメインwww.pref.nara.jpは証明書が2026-09-13で失効しているが、www.pref.nara.lg.jpへ301転送され新ドメインで200を確認。書面申請は持参が原則で郵送・預りは不可。",
+  "sources": [
+   "https://www.pref.nara.lg.jp/n133/12029.html",
+   "https://www.pref.nara.lg.jp/documents/8627/20260724100840.pdf",
+   "https://www.pref.nara.lg.jp/n133/62441.html"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "30",
+  "name": "和歌山県",
+  "url": "https://www.pref.wakayama.lg.jp/prefg/081100/kyoka/index.html",
+  "tebiki_url": "https://www.pref.wakayama.lg.jp/prefg/081100/kyoka/index_d/fil/tebiki_R0709.pdf",
+  "madoguchi": "主たる営業所を管轄する県振興局建設部（海南工事事務所を含む）",
+  "jcip": true,
+  "fee_payment": "書面: 和歌山県収入証紙／電子申請: オンライン納付フォーム（クレジットカード・PayPay）または県証紙を建設部窓口へ提出",
+  "note": "持参・郵送（書留等）・電子申請のいずれでも提出可。電子申請のオンライン納付は令和6年9月1日開始。",
+  "sources": [
+   "https://www.pref.wakayama.lg.jp/prefg/081100/kyoka/index.html",
+   "https://www.pref.wakayama.lg.jp/prefg/081100/kyoka/index_d/fil/tebiki_R0709.pdf",
+   "https://www.pref.wakayama.lg.jp/prefg/081100/kyoka/index_d/fil/teisyutsuhouhou.pdf",
+   "https://www.pref.wakayama.lg.jp/prefg/081100/d00211903.html"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "31",
+  "name": "鳥取県",
+  "url": "https://www.pref.tottori.lg.jp/203974.htm",
+  "tebiki_url": "https://www.pref.tottori.lg.jp/secure/1348797/R8kyoka_tebiki.pdf",
+  "madoguchi": "主たる営業所の所在地を所管する県土整備事務所（県土整備局）建設総務課",
+  "jcip": true,
+  "fee_payment": "書面: POSレジによる窓口納付（現金・クレジットカード・電子マネー・コード決済）または納付書（金融機関・コンビニ）／電子申請: 同じ方法で納付し、レシート控または納付済証を貼付用紙に貼って県土整備事務所へ提出",
+  "note": "鳥取県収入証紙は令和3年10月で廃止（購入済み証紙は令和4年4月以降使用不可）。",
+  "sources": [
+   "https://www.pref.tottori.lg.jp/203974.htm",
+   "https://www.pref.tottori.lg.jp/secure/1348797/R8kyoka_tebiki.pdf",
+   "https://www.pref.tottori.lg.jp/secure/1348797/R8shinseimadoguchi.pdf",
+   "https://www.pref.tottori.lg.jp/299513.htm",
+   "https://www.pref.tottori.lg.jp/308823.htm"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "32",
+  "name": "島根県",
+  "url": "https://www.pref.shimane.lg.jp/infra/kensetsu/hou/kyoka/",
+  "tebiki_url": "https://www.pref.shimane.lg.jp/infra/kensetsu/hou/kyoka/sinnsei.data/R8.10kensetugyoukyokanotebiki.pdf",
+  "madoguchi": "管轄の県土整備事務所（隠岐は隠岐支庁県土整備局）",
+  "jcip": true,
+  "fee_payment": "書面・電子申請とも: しまね電子申請サービスのオンライン納付（ペイジー・PayPay・クレジットカード）",
+  "note": "島根県収入証紙は令和8年3月末で販売終了、令和8年10月1日以降到着分は証紙不可（許可ページの電子申請欄の証紙貼付の記載は旧情報）。郵送申請も可。",
+  "sources": [
+   "https://www.pref.shimane.lg.jp/infra/kensetsu/hou/kyoka/",
+   "https://www.pref.shimane.lg.jp/infra/kensetsu/hou/kyoka/sinnsei.html",
+   "https://www.pref.shimane.lg.jp/infra/kensetsu/hou/kyoka/sinnsei.data/R8.10kensetugyoukyokanotebiki.pdf",
+   "https://www.pref.shimane.lg.jp/kensetsu_sangyo/shoushihaishi/",
+   "https://www.pref.shimane.lg.jp/infra/kensetsu/hou/kyoka/index.data/01_yuusouuketukenituite.pdf"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "33",
+  "name": "岡山県",
+  "url": "https://www.pref.okayama.jp/page/418322.html",
+  "tebiki_url": "https://www.pref.okayama.jp/uploaded/life/1058901_10259718_misc.pdf",
+  "madoguchi": "県庁 土木部監理課 建設業班（県民局等の出先機関では受け付けない）",
+  "jcip": true,
+  "fee_payment": "書面: 岡山県手数料等（POS）納付連絡票で収納専用窓口のPOSレジ払い（現金・クレジットカード・コード決済）、納付済証を貼付／電子申請: システムの指示に従いインターネットバンキング対応口座から納付",
+  "note": "岡山県収入証紙は令和5年9月末で廃止。窓口又は郵送で申請可。更新は有効期間満了の30日前までに受付が必要で、満了3か月前から申請できる。",
+  "sources": [
+   "https://www.pref.okayama.jp/page/418322.html",
+   "https://www.pref.okayama.jp/page/980147.html",
+   "https://www.pref.okayama.jp/page/817746.html",
+   "https://www.pref.okayama.jp/uploaded/life/1058901_10259718_misc.pdf"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "34",
+  "name": "広島県",
+  "url": "https://www.pref.hiroshima.lg.jp/soshiki/93/kyokatebiki.html",
+  "tebiki_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/606782.pdf",
+  "madoguchi": "主たる営業所を所管する建設事務所又は建設事務所支所",
+  "jcip": true,
+  "fee_payment": "書面: 受付窓口で貼られるバーコードシールを持って手数料納付窓口で現金納付／電子申請: 受付後に送付される納付書で金融機関納付、又は窓口で現金",
+  "note": "許可申請は郵送不可（郵送できるのは一部の変更届・廃業届のみ）。満了日まで30日未満の更新申請は電子申請できない。",
+  "sources": [
+   "https://www.pref.hiroshima.lg.jp/soshiki/93/kyokatebiki.html",
+   "https://www.pref.hiroshima.lg.jp/soshiki/93/denshishinsei230110.html",
+   "https://www.pref.hiroshima.lg.jp/soshiki/93/tesuryonofu230110.html",
+   "https://www.pref.hiroshima.lg.jp/uploaded/attachment/606782.pdf"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "35",
+  "name": "山口県",
+  "url": "https://www.pref.yamaguchi.lg.jp/site/kensetsugyo/23468.html",
+  "tebiki_url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/249363.pdf",
+  "madoguchi": "主たる営業所を管轄する土木建築事務所（持参又は郵送）",
+  "jcip": true,
+  "fee_payment": "窓口納付: 山口県手数料等（POS）納付連絡票で収納窓口（現金・キャッシュレス）／電子納付: やまぐち電子申請サービス（書面・JCIPどちらの申請でも可）／山口県収入証紙は令和9年3月末まで使用可",
+  "note": "令和8年10月1日から証紙に代わる新たな納付方法へ移行（証紙の販売は令和8年9月末で終了）。",
+  "sources": [
+   "https://www.pref.yamaguchi.lg.jp/site/kensetsugyo/23468.html",
+   "https://www.pref.yamaguchi.lg.jp/site/kensetsugyo/347994.html",
+   "https://www.pref.yamaguchi.lg.jp/soshiki/126/187657.html",
+   "https://www.pref.yamaguchi.lg.jp/site/download/301643.html",
+   "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/249363.pdf"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "36",
+  "name": "徳島県",
+  "url": "https://www.pref.tokushima.lg.jp/ippannokata/kendozukuri/kensetsu/2010080500039/",
+  "tebiki_url": "https://www.pref.tokushima.lg.jp/file/attachment/1052905.pdf",
+  "madoguchi": "主たる営業所を管轄する各県土整備事務所",
+  "jcip": true,
+  "fee_payment": "書面: 徳島県収入証紙又は電子申請サービスでの納付（令和8年4月から・審査完了後に納付）／電子申請: 電子納付（Pay-easy）又は徳島県収入証紙",
+  "note": "徳島県収入証紙は販売が令和8年9月末、使用が令和9年3月末で終了。",
+  "sources": [
+   "https://www.pref.tokushima.lg.jp/ippannokata/kendozukuri/kensetsu/2010080500039/",
+   "https://www.pref.tokushima.lg.jp/file/attachment/1052905.pdf"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "37",
+  "name": "香川県",
+  "url": "https://www.pref.kagawa.lg.jp/dobokukanri/kensetsu/kfvn.html",
+  "tebiki_url": "https://www.pref.kagawa.lg.jp/documents/13026/kennsetugyoukyokagaiyou_r70106kaitei_r70210teisei.pdf",
+  "madoguchi": "主たる営業所の所在地を管轄する各土木事務所（小豆郡は小豆総合事務所）総務課",
+  "jcip": true,
+  "fee_payment": "香川県証紙（電子申請時の納付方法は県資料に記載なし）",
+  "note": "持参又は郵送で受け付ける。業種追加＋更新等は原則として更新期限の1か月半前までに申請。",
+  "sources": [
+   "https://www.pref.kagawa.lg.jp/dobokukanri/kensetsu/kfvn.html",
+   "https://www.pref.kagawa.lg.jp/dobokukanri/kensetsu/shinsei.html",
+   "https://www.pref.kagawa.lg.jp/dobokukanri/kensetsu/jcip/jcip_home.html",
+   "https://www.pref.kagawa.lg.jp/dobokukanri/kensetsu/kyokadownload/2kyokadownload.html",
+   "https://www.pref.kagawa.lg.jp/documents/13026/kennsetugyoukyokagaiyou_r70106kaitei_r70210teisei.pdf"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "38",
+  "name": "愛媛県",
+  "url": "https://www.pref.ehime.jp/page/5884.html",
+  "tebiki_url": "https://www.pref.ehime.jp/uploaded/attachment/189246.pdf",
+  "madoguchi": "主たる営業所の所在地を所管する各地方局建設部・土木事務所",
+  "jcip": true,
+  "fee_payment": "書面: 愛媛県収入証紙／電子申請: ネットバンキング対応口座から納付（使えない場合は愛媛県収入証紙）",
+  "note": "受付は平日8時30分〜17時15分。",
+  "sources": [
+   "https://www.pref.ehime.jp/page/5884.html",
+   "https://www.pref.ehime.jp/page/5843.html",
+   "https://www.pref.ehime.jp/uploaded/attachment/189246.pdf"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "39",
+  "name": "高知県",
+  "url": "https://www.pref.kochi.lg.jp/doc/kyokatou-index/",
+  "tebiki_url": "https://www.pref.kochi.lg.jp/doc/kyokatou-index/file_contents/file_2026934163115_1.pdf",
+  "madoguchi": "本庁 土木部土木政策課（建設業振興担当）又は各土木事務所（持参又は郵送）",
+  "jcip": true,
+  "fee_payment": "高知県収入証紙",
+  "note": "手引に「令和10年4月以降は電子納付又は収納専用窓口等での納付となる」と記載。",
+  "sources": [
+   "https://www.pref.kochi.lg.jp/doc/kyokatou-index/",
+   "https://www.pref.kochi.lg.jp/doc/2020090400038/",
+   "https://www.pref.kochi.lg.jp/doc/kensetsu-download/",
+   "https://www.pref.kochi.lg.jp/doc/kyokatou-index/file_contents/file_2026934163115_1.pdf",
+   "https://prod.jcip.mlit.go.jp/TO/TO00007",
+   "https://prod.jcip.mlit.go.jp/TO/TO00001"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "40",
+  "name": "福岡県",
+  "url": "https://www.pref.fukuoka.lg.jp/contents/kensetugyoukyokashinsei.html",
+  "tebiki_url": "https://www.pref.fukuoka.lg.jp/uploaded/attachment/253239.pdf",
+  "madoguchi": "主たる営業所の所在地を管轄する県土整備事務所",
+  "jcip": true,
+  "fee_payment": "書面: 福岡県領収証紙／電子申請: ふくおか電子申請サービスのオンライン決済（クレジットカード・コンビニ払い・PayPay・Pay-easy）",
+  "note": "JCIPによる電子申請は令和7年9月1日開始。JCIP申請では領収証紙は使えず、紙申請ではオンライン決済は使えない。",
+  "sources": [
+   "https://www.pref.fukuoka.lg.jp/contents/kensetugyoukyokashinsei.html",
+   "https://www.pref.fukuoka.lg.jp/contents/jcip-fukuoka.html",
+   "https://www.pref.fukuoka.lg.jp/uploaded/attachment/247323.pdf"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "41",
+  "name": "佐賀県",
+  "url": "https://www.pref.saga.lg.jp/kiji00324882/index.html",
+  "tebiki_url": "https://www.pref.saga.lg.jp/kiji00324882/3_24882_179721_up_smzjibxo.pdf",
+  "madoguchi": "本店所在地を管轄する県土木事務所 管理課（佐賀・東部・唐津・伊万里・杵藤）",
+  "jcip": true,
+  "fee_payment": "書面: 佐賀県収入証紙／電子申請: インターネットバンキング",
+  "note": "窓口での審査のため持参提出のみで、郵送の申請・届出は受け付けていない。",
+  "sources": [
+   "https://www.pref.saga.lg.jp/kiji00324882/index.html",
+   "https://www.pref.saga.lg.jp/kiji00324882/3_24882_179721_up_smzjibxo.pdf",
+   "https://www.pref.saga.lg.jp/kiji00324814/index.html",
+   "https://www.pref.saga.lg.jp/kiji00388227/index.html"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "42",
+  "name": "長崎県",
+  "url": "https://www.pref.nagasaki.jp/bunrui/machidukuri/kensetsu-jari-saikutsugyo/kensetugyo/kensetsu/kensetsu-kyoka/",
+  "tebiki_url": "https://www.pref.nagasaki.jp/fs/3/2/4/4/4/_/____00_R08.08___________all_.pdf",
+  "madoguchi": "県土木部 監理課 建設業指導班（県庁）",
+  "jcip": true,
+  "fee_payment": "電子申請: Pay-easy／その他: オンライン決済・キャッシュレス決済・手数料納付書",
+  "note": "令和6年4月から原則電子申請（JCIP）。書面は県庁へ郵送または持込。長崎県収入証紙は令和7年3月末で使用終了。",
+  "sources": [
+   "https://www.pref.nagasaki.jp/bunrui/machidukuri/kensetsu-jari-saikutsugyo/kensetugyo/kensetsu/kensetsu-kyoka/",
+   "https://www.pref.nagasaki.jp/fs/3/2/4/4/4/_/____00_R08.08___________all_.pdf"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "43",
+  "name": "熊本県",
+  "url": "https://www.pref.kumamoto.jp/soshiki/98/228706.html",
+  "tebiki_url": "https://www.pref.kumamoto.jp/uploaded/attachment/305329.pdf",
+  "madoguchi": "県土木部 監理課 建設業班（県庁本館11階）",
+  "jcip": true,
+  "fee_payment": "熊本県収入証紙",
+  "note": "手引きの冊子は無く、tebiki_urlは「建設業許可に必要な書類【早見表】（R8.4～）」（手数料の章を含む）。",
+  "sources": [
+   "https://www.pref.kumamoto.jp/soshiki/98/228706.html",
+   "https://www.pref.kumamoto.jp/uploaded/attachment/305329.pdf",
+   "https://www.pref.kumamoto.jp/soshiki/98/156900.html"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "44",
+  "name": "大分県",
+  "url": "https://www.pref.oita.jp/site/n-kennsetsugyou/n-kyoka-tebiki.html",
+  "tebiki_url": "https://www.pref.oita.jp/uploaded/attachment/2233253.pdf",
+  "madoguchi": "主たる営業所を管轄する土木事務所",
+  "jcip": true,
+  "fee_payment": "書面: 大分県収入証紙またはキャッシュレス決済／電子申請: Pay-easyのみ",
+  "note": "手引きは章ごとの分割PDFで、tebiki_urlは「1.建設業許可制度等」（提出先・手数料の章）。収入証紙は各土木事務所で販売。",
+  "sources": [
+   "https://www.pref.oita.jp/site/n-kennsetsugyou/n-kyoka-tebiki.html",
+   "https://www.pref.oita.jp/uploaded/attachment/2233253.pdf"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "45",
+  "name": "宮崎県",
+  "url": "https://www.pref.miyazaki.lg.jp/kanri/shigoto/kokyojigyo/index-04.html",
+  "tebiki_url": null,
+  "madoguchi": "県土整備部 管理課（持参・書留郵送）または管轄の土木事務所等（持参）",
+  "jcip": true,
+  "fee_payment": "宮崎県収納証紙（電子申請もシステムの納付指示後に証紙を貼った様式を提出）",
+  "note": "窓口の記載は電子申請ページの手数料提出先の記載による。",
+  "sources": [
+   "https://www.pref.miyazaki.lg.jp/kanri/shigoto/kokyojigyo/index-04.html",
+   "https://www.pref.miyazaki.lg.jp/kanri/shigoto/kokyojigyo/20221021090436.html",
+   "https://www.pref.miyazaki.lg.jp/kanri/shigoto/kokyojigyo/20160518174556.html",
+   "https://www.pref.miyazaki.lg.jp/documents/23231/23231_20250714100540-1.pdf"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "46",
+  "name": "鹿児島県",
+  "url": "https://www.pref.kagoshima.jp/ah01/infra/tochi-kensetu/kensetu/kyoka-sinsei-sinki.html",
+  "tebiki_url": null,
+  "madoguchi": "県土木部 監理課 建設業許可係（県庁）",
+  "jcip": true,
+  "fee_payment": "鹿児島県収入証紙またはキャッシュレス決済（端末の取引明細書を貼付）。電子申請も納付指示後に郵送または窓口で同様に納付",
+  "note": "令和8年4月からキャッシュレス決済可。収入証紙は令和8年9月30日販売終了、令和9年3月31日まで使用可。",
+  "sources": [
+   "https://www.pref.kagoshima.jp/ah01/infra/tochi-kensetu/kensetu/kyoka-sinsei-sinki.html",
+   "https://www.pref.kagoshima.jp/ah01/infra/tochi-kensetu/kensetu/kyoka-sinsei-hoho.html",
+   "https://www.pref.kagoshima.jp/ah01/syousihaisi.html",
+   "https://www.pref.kagoshima.jp/ah01/kanri/dennshi.html",
+   "https://www.pref.kagoshima.jp/ah01/infra/tochi-kensetu/kensetu/kyoka-youshiki.html"
+  ],
+  "checked_at": "2026-10-06"
+ },
+ {
+  "code": "47",
+  "name": "沖縄県",
+  "url": "https://www.pref.okinawa.lg.jp/machizukuri/kenchiku/1023167/1013358/1013364.html",
+  "tebiki_url": null,
+  "madoguchi": "管轄の土木事務所（南部・中部・北部・宮古・八重山）",
+  "jcip": true,
+  "fee_payment": "書面: 沖縄県収入証紙／電子申請: 証紙を貼った貼付欄を書留郵送、またはPay-easy",
+  "note": "新規は県庁 技術・建設業課等へ提出し面談審査があるが、更新は管轄土木事務所へ提出。",
+  "sources": [
+   "https://www.pref.okinawa.lg.jp/machizukuri/kenchiku/1023167/1013358/1013364.html",
+   "https://www.pref.okinawa.lg.jp/machizukuri/kenchiku/1023167/1013358/1013359.html",
+   "https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/013/364/20250611_shinseitetsuduki.pdf"
+  ],
+  "checked_at": "2026-10-06"
+ }
+]
