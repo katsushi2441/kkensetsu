@@ -1,8 +1,11 @@
-# Kurage 建設業許可 更新期限チェック（kkensetsu）
+# Kurage 建設業許可 期限管理（kkensetsu）
 
-建設業許可の許可日と決算月から、有効期間の満了日・更新申請の期限・決算変更届の期限を計算する、1ファイルの PHP です。複数の許可を1行ずつ入れると期限の近い順に並べ、`.ics` でカレンダーに入れられます。
+建設業許可の許可日と決算月から、有効期間の満了日・更新申請の期限・決算変更届の期限を計算し、顧客ごとの許可をまとめて管理する PHP です。2つの画面でできています。
 
-公開: https://kurage.exbridge.jp/kkensetsu.php/
+- `php/kkensetsu.php` … だれでも使える期限の計算と、47都道府県の更新の窓口（1ファイル・データベース不要）
+- `php/kkensetsu_kanri.php` … 事務所の管理画面。許可を保存し、期限の近い順の一覧・提出済みの記録・期限前のメール通知・カレンダー購読・CSV の取り込みと書き出し（PHP＋SQLite）
+
+公開: https://kurage.exbridge.jp/kkensetsu.php/ （計算）・https://proto.exbridge.jp/kkensetsu/ （管理画面のデモ。毎日0時に見本へ戻る）
 
 ## できること
 
@@ -29,16 +32,22 @@
 
 ## 置き方
 
-`php/kkensetsu.php` と `data/prefs.json`（`kkensetsu_prefs.json` の名前で同じ場所に置く）を PHP 8.1 以上のサーバーに置くだけです（データベース不要）。`SITE` / `BASE` 定数を自分の URL に変えてください。
+PHP 8.1 以上と SQLite（pdo_sqlite）が使えるレンタルサーバーに置きます。常駐プロセスや外部の API は要りません。
+
+1. 計算画面：`php/kkensetsu.php` と `data/prefs.json`（`kkensetsu_prefs.json` の名前で同じ場所に）を置き、`SITE` / `BASE` 定数を自分の URL に変える。
+2. 管理画面：`php/kkensetsu_kanri.php` と `php/kkensetsu_data/`（中の `.htaccess` で外から読めないようにしてある）を置き、`php/kkensetsu_config.php.example` を `kkensetsu_config.php` に写して合言葉・通知先・cron の鍵を書く。`kkensetsu_data/` はサーバーから書き込めるようにする。
+3. 通知：サーバーの cron で1日1回 `kkensetsu_kanri.php?cron=鍵` を呼ぶ（期限の90/60/30/14/7日前と期限切れを1通にまとめて送る。同じ知らせは2度送らない）。
+4. カレンダー：管理画面の「取り込み・通知」にある購読 URL を Google カレンダーなどに追加する。
 
 ## データの更新
 
-- 国民の祝日：内閣府の `syukujitsu.csv` が翌年分を公表したら `HOLIDAYS` と `HOLIDAYS_UNTIL` を足す（それより先は土日と年末年始だけで判定する）
+- 国民の祝日：内閣府の `syukujitsu.csv` が翌年分を公表したら、`kkensetsu.php` の `HOLIDAYS` と `HOLIDAYS_UNTIL`、`kkensetsu_kanri.php` の `HOLIDAYS` に足す（それより先は土日と年末年始だけで判定する）
 - 都道府県の窓口・納め方：`data/prefs.json`（各都道府県の公式ページで確認した値と確認日）
 
 ## 確かめ方
 
-`scripts/check_calc.py` が、休日のずれ・和暦・2月29日を含む既知の答えと、ブラウザでの計算結果を突き合わせます。
+- `scripts/check_calc.py` … 休日のずれ・和暦・2月29日を含む既知の答えと、計算画面の結果を突き合わせる
+- `scripts/check_kanri.py` … 管理画面（demo 設定）で、登録・提出済みの記録・CSV の取り込みと書き出し・カレンダー購読・CSRF を一通り操作して確かめる
 
 ## ライセンス
 

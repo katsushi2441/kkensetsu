@@ -1,3 +1,5 @@
 outputs/
 php/kkensetsu_prefs.json
+php/kkensetsu_config.php
+php/kkensetsu_data/*.sqlite*
 __pycache__/

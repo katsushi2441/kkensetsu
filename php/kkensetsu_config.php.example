@@ -1,0 +1,11 @@
+<?php
+// kkensetsu_config.php として kkensetsu_kanri.php と同じ場所に置く。書いた項目だけが既定値を上書きする。
+return [
+    'office'      => '〇〇行政書士事務所',        // 画面の左上に出す名前
+    'password'    => 'ここに長い合言葉',          // ログインの合言葉（必須）
+    'notify_to'   => 'jimusho@example.com',      // 期限の通知メールの宛先（カンマ区切りで複数）。空なら送らない
+    'mail_from'   => 'noreply@example.com',      // 送信元（サーバーから送れるアドレス）
+    'notify_days' => [90, 60, 30, 14, 7],        // 期限の何日前に知らせるか
+    'cron_key'    => 'ここにランダムな文字列',    // cron から ?cron=この文字列 を1日1回呼ぶ
+    'public_url'  => 'https://example.com/kkensetsu/kkensetsu_kanri.php',
+];
