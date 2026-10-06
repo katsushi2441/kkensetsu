@@ -29,7 +29,7 @@ const SITE = 'https://kurage.exbridge.jp';
 const BASE = SITE . '/kkensetsu.php';
 const NAME = 'Kurage 建設業許可 更新期限チェック';
 const CHECKED = '2026-10-06';
-const BUY = '';   // 商品ページができたら URL を入れる
+const BUY = 'https://kappstore.exbridge.jp/app.php?id=c8a24775df796de6';
 const SRC_TEBIKI = 'https://www.ktr.mlit.go.jp/ktr_content/content/000827696.pdf';
 const SRC_HO = 'https://laws.e-gov.go.jp/law/324AC0000000100';
 const SRC_KISOKU = 'https://laws.e-gov.go.jp/law/324M50004000014';
@@ -217,8 +217,8 @@ function run(){
   if(R.bad.length)h+='<p class="err">'+R.bad.join('・')+'行目は日付が読めませんでした。</p>';
   if(R.items.some(function(x){return x.ab.d>D.holUntil||(x.ks&&x.ks.due.d>D.holUntil)}))h+='<p class="src">国民の祝日は、内閣府が公表している'+D.holUntil.slice(0,4)+'年までを反映しています。それより先の期限は土日と年末年始（12月29日〜1月3日）だけで判定しているので、祝日に当たる場合は1日ずれます。</p>';
   if(late)h+='<p class="box-ng">「30日前を過ぎています」の許可も、<b>有効期間の満了日までに更新の申請が受け付けられれば</b>、審査中は従前の許可が有効です（建設業法第3条第4項）。受け付けてもらえるかは許可行政庁で違うので、すぐ窓口に相談してください。満了日を過ぎると許可は効力を失い、500万円以上の工事（建築一式は1,500万円以上など）を請け負えなくなります。</p>';
-  h+='<h3>期限の管理を、事務所のシステムにする</h3><p>この画面は入力した分をその場で計算するだけで、保存も通知もしません。顧客の建設会社ごとに許可・決算・技術者の変更をまとめて持ち、期限の前に知らせる仕組みは、当社が事務所のサーバーに置く形で作ります（月額なし）。</p>'
-    +'<p><a class="btn sub" href="https://exbridge.jp/ai-it-komon.html?ref=kkensetsu-calc" target="_blank" rel="noopener">期限管理の仕組みを相談する（AI-IT顧問）</a></p>';
+  h+='<h3>顧客の許可をまとめて管理する</h3><p>この画面は入力した分をその場で計算するだけで、保存も通知もしません。顧客の建設会社ごとに許可を保存し、期限の近い順の一覧・「更新申請を出した」「決算変更届を出した」の記録・期限前のメール通知・Googleカレンダーでの購読ができる管理画面を、事務所のサーバーに置けます（月額なし・ソースコード付き）。</p>'
+    +'<p><a class="btn" href="https://proto.exbridge.jp/kkensetsu/?ref=kkensetsu-calc" target="_blank" rel="noopener">管理画面のデモを見る</a> <a class="btn sub" href="https://kappstore.exbridge.jp/app.php?id=c8a24775df796de6&amp;ref=kkensetsu-calc" target="_blank" rel="noopener">導入版（商品ページ）</a></p>';
   o.innerHTML=h;
 }
 function ics(){
